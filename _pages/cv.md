@@ -1,1 +1,1 @@
-<embed src="{{ site.baseurl }}/files/HarshKohli_CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="https://harshkohli.github.io/files/HarshKohli_CV.pdf" width="600" height="700" type='application/pdf'>
